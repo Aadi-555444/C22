@@ -1,2 +1,1 @@
-# C22
-GHOST TOWER!!!
+# C20
